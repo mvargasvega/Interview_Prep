@@ -75,10 +75,3 @@ let ships = "1B 2C,2D 4D";
 let shipsHit = "2B 2D 3D 4D 4A";
 
 console.log(solution(gridSize,ships,shipsHit));
-
-
-
-
-
-
-
